@@ -104,7 +104,7 @@ For a complete CS self-taught program, the resources for my study plan have been
 - [More Knowledge](#more-knowledge)
     - [Binary search](#binary-search)
     - [Bitwise operations](#bitwise-operations)
-- [Trees](#trees)
+- [Treess](#trees)
     - [Trees - Intro](#trees---intro)
     - [Binary search trees: BSTs](#binary-search-trees-bsts)
     - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
