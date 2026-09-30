@@ -598,7 +598,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
 ## Data Structures
 
-- ### Arrays
+- [x] ### Arrays
     - [ ] About Arrays:
     	- [Arrays CS50 Harvard University](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s)
         - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
@@ -631,7 +631,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - contiguous in memory, so proximity helps performance
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
-- ### Linked Lists
+- [x] ### Linked Lists
     - [ ] Description:
     	- [ ] [Linked Lists CS50 Harvard University](https://www.youtube.com/watch?v=2T-A_GFuoTo&t=650s) - this builds the intuition.
         - [ ] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
@@ -667,12 +667,12 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
         - No need to implement
 
-- ### Stack
+- [x] ### Stack
     - [ ] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
     - [ ] [[Review] Stacks in 3 minutes (video)](https://youtu.be/KcT3aVgrrpU)
     - [ ] Will not implement. Implementing with the array is trivial
 
-- ### Queue
+- [x] ### Queue
     - [ ] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
     - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
     - [ ] [[Review] Queues in 3 minutes (video)](https://youtu.be/D6gu-_tmEpQ)
@@ -692,7 +692,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - dequeue: O(1) (linked list and array)
         - empty: O(1) (linked list and array)
 
-- ### Hash table
+- [x] ### Hash table
     - [ ] Videos:
         - [ ] [Hashing with Chaining (video)](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
         - [ ] [Table Doubling, Karp-Rabin (video)](https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
